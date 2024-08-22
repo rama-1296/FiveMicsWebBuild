@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=1170 height=2532 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/FiveMics2.loader.js";
+      var loaderUrl = buildUrl + "/FiveMics.loader.js";
       var config = {
-        dataUrl: buildUrl + "/FiveMics2.data.gz",
-        frameworkUrl: buildUrl + "/FiveMics2.framework.js.gz",
-        codeUrl: buildUrl + "/FiveMics2.wasm.gz",
+        dataUrl: buildUrl + "/FiveMics.data.gz",
+        frameworkUrl: buildUrl + "/FiveMics.framework.js.gz",
+        codeUrl: buildUrl + "/FiveMics.wasm.gz",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Five Mics Studios",
         productName: "Five Mics",
@@ -94,8 +94,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "1170px";
-        canvas.style.height = "2532px";
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
       }
 
       loadingBar.style.display = "block";
