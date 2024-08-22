@@ -1,0 +1,44 @@
+{
+    "items": [
+ {
+   "Mode": "Chill",
+   "RoundNumber": "1",
+   "ArtistName": "Stone Hot Andretti",
+   "OpposingArtistName": "Lil Sis",
+   "PreMatch": "Y",
+   "PostMatch": "N",
+   "Dialogues": "1. Stone Hot Andretti \n",
+   "Deck": "StoryDeck 1a"
+ },
+ {
+   "Mode": "Chill",
+   "RoundNumber": "1",
+   "ArtistName": "Stone Hot Andretti",
+   "OpposingArtistName": "Lil Sis",
+   "PreMatch": "Y",
+   "PostMatch": "N",
+   "Dialogues": "1. Stone Hot Andretti \n",
+   "Deck": "StoryDeck 1a"
+ },
+ {
+   "Mode": "Chill",
+   "RoundNumber": "1",
+   "ArtistName": "Stone Hot Andretti",
+   "OpposingArtistName": "Lil Sis",
+   "PreMatch": "Y",
+   "PostMatch": "N",
+   "Dialogues": "1. Stone Hot Andretti \n",
+   "Deck": "StoryDeck 1a"
+ },
+ {
+   "Mode": "Chill",
+   "RoundNumber": "1",
+   "ArtistName": "Stone Hot Andretti",
+   "OpposingArtistName": "Lil Sis",
+   "PreMatch": "Y",
+   "PostMatch": "N",
+   "Dialogues": "1. Stone Hot Andretti \n",
+   "Deck": "StoryDeck 1a"
+ }
+]
+}
